@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://code-sex.github.io/csb-oq66p/precache-manifest.22c40bf9f6255c66de4b1901855ff2eb.js"
+  "https://code-sex.github.io/csb-oq66p/precache-manifest.72b831fa426b66d65a61e005ac6f2a82.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://code-sex.github.io/csb-oq66p/static/css/main.8647218e.chunk.css",
-    "main.js": "https://code-sex.github.io/csb-oq66p/static/js/main.5e3068c0.chunk.js",
-    "main.js.map": "https://code-sex.github.io/csb-oq66p/static/js/main.5e3068c0.chunk.js.map",
+    "main.js": "https://code-sex.github.io/csb-oq66p/static/js/main.2f36bc10.chunk.js",
+    "main.js.map": "https://code-sex.github.io/csb-oq66p/static/js/main.2f36bc10.chunk.js.map",
     "runtime-main.js": "https://code-sex.github.io/csb-oq66p/static/js/runtime-main.52a629ac.js",
     "runtime-main.js.map": "https://code-sex.github.io/csb-oq66p/static/js/runtime-main.52a629ac.js.map",
     "static/css/2.fbfbc609.chunk.css": "https://code-sex.github.io/csb-oq66p/static/css/2.fbfbc609.chunk.css",
     "static/js/2.543e3340.chunk.js": "https://code-sex.github.io/csb-oq66p/static/js/2.543e3340.chunk.js",
     "static/js/2.543e3340.chunk.js.map": "https://code-sex.github.io/csb-oq66p/static/js/2.543e3340.chunk.js.map",
     "index.html": "https://code-sex.github.io/csb-oq66p/index.html",
-    "precache-manifest.22c40bf9f6255c66de4b1901855ff2eb.js": "https://code-sex.github.io/csb-oq66p/precache-manifest.22c40bf9f6255c66de4b1901855ff2eb.js",
+    "precache-manifest.72b831fa426b66d65a61e005ac6f2a82.js": "https://code-sex.github.io/csb-oq66p/precache-manifest.72b831fa426b66d65a61e005ac6f2a82.js",
     "service-worker.js": "https://code-sex.github.io/csb-oq66p/service-worker.js",
     "static/css/2.fbfbc609.chunk.css.map": "https://code-sex.github.io/csb-oq66p/static/css/2.fbfbc609.chunk.css.map",
     "static/css/main.8647218e.chunk.css.map": "https://code-sex.github.io/csb-oq66p/static/css/main.8647218e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.fbfbc609.chunk.css",
     "static/js/2.543e3340.chunk.js",
     "static/css/main.8647218e.chunk.css",
-    "static/js/main.5e3068c0.chunk.js"
+    "static/js/main.2f36bc10.chunk.js"
   ]
 }

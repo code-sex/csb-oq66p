@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f4b3b65b5e55a58f509346a597124e5",
+    "revision": "3ae0b610661461250d23103735345d2d",
     "url": "https://code-sex.github.io/csb-oq66p/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://code-sex.github.io/csb-oq66p/static/css/2.fbfbc609.chunk.css"
   },
   {
-    "revision": "43cfe5e96379a8c6ad8e",
+    "revision": "435994c3964575dead6b",
     "url": "https://code-sex.github.io/csb-oq66p/static/css/main.8647218e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://code-sex.github.io/csb-oq66p/static/js/2.543e3340.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43cfe5e96379a8c6ad8e",
-    "url": "https://code-sex.github.io/csb-oq66p/static/js/main.5e3068c0.chunk.js"
+    "revision": "435994c3964575dead6b",
+    "url": "https://code-sex.github.io/csb-oq66p/static/js/main.2f36bc10.chunk.js"
   },
   {
     "revision": "1d5236b6a23b348b3863",
